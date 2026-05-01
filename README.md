@@ -8,7 +8,6 @@ A GitHub Actions workflow that lets you download files into your repository just
 --- 
 
 
-
 ## ⚙️ Setup
 
 0. Fork this repo
